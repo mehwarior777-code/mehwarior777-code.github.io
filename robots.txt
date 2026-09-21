@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mehwarior777-code.github.io/fenix-showroom/sitemap.xml
